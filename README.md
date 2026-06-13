@@ -117,7 +117,7 @@ Components include:
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Shyamanth-001/Heart-Disease-Prediction.git
 cd Heart-Disease-Prediction
 ```
 
@@ -132,6 +132,11 @@ Run the notebook:
 ```bash
 jupyter notebook
 ```
+Open:
+
+```text
+HeartDiseasePrediction.ipynb
+```
 
 ---
 
@@ -145,4 +150,4 @@ The best-performing model was selected based on ROC-AUC score after hyperparamet
 
 P Durgashyamanth
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Shyamanth-001
